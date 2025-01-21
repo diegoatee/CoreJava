@@ -5,6 +5,8 @@ import java.util.Random;    //For random numbers
 
 import java.util.*; //For all java.util packages
 
+
+//All lessons written in this class come from the "BroCode" YouTube channel
 public class Main {
     public static void main(String[] args) {
         //IntelliJ Shortcuts
